@@ -1,0 +1,5 @@
+# For macOs only
+.DS_Store
+
+# For Jupyter Notebooks Swap Files
+*.ipynb.swp
