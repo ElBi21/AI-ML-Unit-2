@@ -3,5 +3,5 @@
 test.py
 
 # For Jupyter Notebooks Swap Files and Checkpoints
-ipynb_checkpoints/
+.ipynb_checkpoints/
 *.ipynb.swp
