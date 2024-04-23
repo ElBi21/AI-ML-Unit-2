@@ -2,5 +2,6 @@
 .DS_Store
 test.py
 
-# For Jupyter Notebooks Swap Files
+# For Jupyter Notebooks Swap Files and Checkpoints
+ipynb_checkpoints/
 *.ipynb.swp
