@@ -2,6 +2,10 @@
 .DS_Store
 test.py
 
+# For code editors
+.vscode/
+.idea/
+
 # For Jupyter Notebooks Swap Files and Checkpoints
 .ipynb_checkpoints/
 *.ipynb.swp
