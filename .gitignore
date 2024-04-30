@@ -2,5 +2,11 @@
 .DS_Store
 test.py
 
-# For Jupyter Notebooks Swap Files
+# For code editors
+.vscode/
+.idea/
+
+# For Jupyter Notebooks Swap Files and Checkpoints
+.ipynb_checkpoints/
 *.ipynb.swp
+.virtual_documents/
