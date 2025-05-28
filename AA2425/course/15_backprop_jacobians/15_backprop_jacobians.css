@@ -25,6 +25,7 @@ div.myfooter {
     font-size: 120%;
     right: 10%;
 }
+
 div.cell.selected:before, div.cell.selected.jupyter-soft-selected:before{
 
     background: #812432;
